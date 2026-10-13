@@ -1,1 +1,0 @@
-# wildrydes-amplify-static
