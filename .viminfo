@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791854611,,"wq"
+|2,0,1791854653,,"wq"
 :q
 |2,0,1791854348,,"q"
 
@@ -25,20 +25,33 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	cache test
+|3,1,1,1,1,0,1791854652,"cache test"
 
 # File marks:
-'0  2  9  ~/README.md
-|4,48,2,9,1791854611,"~/README.md"
-'1  1  8  ~/README.md
-|4,49,1,8,1791854468,"~/README.md"
-'2  1  8  ~/README.md
-|4,50,1,8,1791854468,"~/README.md"
-'3  1  0  ~/amplify.yml
-|4,51,1,0,1791854348,"~/amplify.yml"
-'4  1  0  ~/.lesshst
-|4,52,1,0,1791854339,"~/.lesshst"
+'0  1  0  ~/README.md
+|4,48,1,0,1791854653,"~/README.md"
+'1  2  9  ~/README.md
+|4,49,2,9,1791854611,"~/README.md"
+'2  2  9  ~/README.md
+|4,50,2,9,1791854611,"~/README.md"
+'3  1  8  ~/README.md
+|4,51,1,8,1791854468,"~/README.md"
+'4  1  8  ~/README.md
+|4,52,1,8,1791854468,"~/README.md"
+'5  1  8  ~/README.md
+|4,53,1,8,1791854468,"~/README.md"
+'6  1  0  ~/amplify.yml
+|4,54,1,0,1791854348,"~/amplify.yml"
+'7  1  0  ~/.lesshst
+|4,55,1,0,1791854339,"~/.lesshst"
 
 # Jumplist (newest first):
+-'  1  0  ~/README.md
+|4,39,1,0,1791854653,"~/README.md"
+-'  2  9  ~/README.md
+|4,39,2,9,1791854650,"~/README.md"
 -'  2  9  ~/README.md
 |4,39,2,9,1791854611,"~/README.md"
 -'  1  8  ~/README.md
@@ -53,6 +66,30 @@
 |4,39,1,0,1791854348,"~/amplify.yml"
 -'  1  0  ~/amplify.yml
 |4,39,1,0,1791854348,"~/amplify.yml"
+-'  1  0  ~/amplify.yml
+|4,39,1,0,1791854348,"~/amplify.yml"
+-'  1  0  ~/amplify.yml
+|4,39,1,0,1791854348,"~/amplify.yml"
+-'  1  0  ~/amplify.yml
+|4,39,1,0,1791854348,"~/amplify.yml"
+-'  1  0  ~/amplify.yml
+|4,39,1,0,1791854348,"~/amplify.yml"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
+-'  1  0  ~/.lesshst
+|4,39,1,0,1791854339,"~/.lesshst"
 -'  1  0  ~/.lesshst
 |4,39,1,0,1791854339,"~/.lesshst"
 -'  1  0  ~/.lesshst
@@ -73,12 +110,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/README.md
-	*	1791854611	0
-	"	2	9
-	^	2	10
-	.	2	9
+	*	1791854652	0
+	"	1	0
+	.	2	0
 	+	1	9
-	+	2	9
+	+	2	0
 
 > ~/amplify.yml
 	*	1791854346	0
